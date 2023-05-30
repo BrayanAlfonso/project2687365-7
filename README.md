@@ -9,3 +9,6 @@ En el presente repositorio presento el taller #7 de Java Avanzadao llamado ampli
 - Incluir jsp's necesarios para la captura de datos de productos y categorías (validaciones)
   
 Todo con su correcto funcionamiento y adicional la base de datos que estoy utilizando.
+  
+Adjunto video como evidencia complementaria
+
